@@ -1,0 +1,9 @@
+name = "lucky6"
+main = "src/worker.ts"
+compatibility_date = "2026-07-19"
+workers_dev = false
+preview_urls = false
+
+[[routes]]
+pattern = "lucky6.xhjkl.xyz"
+custom_domain = true
